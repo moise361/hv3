@@ -1,0 +1,59 @@
+html{
+    display: block;
+}
+body{
+font-family: 'lato', sans-serif;
+font-size: 1rem;
+background-color: antiquewhite
+}
+
+header{
+    background: ;
+    color: #323232;
+}
+
+.contenedor-header{
+    text-align: center;
+    line-height: 0.3;
+}
+.texto-header{
+padding: 3rem;
+}
+.ordenar-todo{
+    padding: 3rem;
+}
+.ubicar-foto{
+    height: 17rem;
+    display: flex;
+}
+.separar{
+    padding-right: 4rem;
+}
+.recuadro{
+    color: beige;
+    background: gray;
+    text-align: 2rem;
+    height: 1.7rem;
+    border-radius: 1rem;
+    align-items: center;
+}
+.ubiucar{
+    padding-right: 4rem;
+}
+.foto-de-perfil{
+    width: 14rem;
+    height: 14rem;
+    border-radius: 50%;
+}
+.componer-texto{
+    display: flex;
+    justify-content: space-between;
+}
+.red-social{
+    justify-content: space-between;
+}
+.red--social{
+    height: 1.3rem;
+    width: 1.3rem;
+}
+
